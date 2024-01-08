@@ -3,7 +3,7 @@ body{
     background-color: aliceblue;
     padding: 50px 140px;
     max-width: 1600px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 /* header */
@@ -12,27 +12,59 @@ body{
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
-    padding: 127px 344px;
+    padding: 130px 344px;
     border-radius: 16px;
 }
 .banner{
     width: 632px;
+    font-family: Merriweather;
+    text-align: center;
 }
 
 .banner-title{
     color: cadetblue;
-    text-align: center;
-    font-family: Merriweather;
     font-weight: 400;
     font-size: 32px;
     margin-bottom: 18px;
 }
 
-.banner-info{
+.banner-description{
     color: darkblue;
-    text-align: center;
-    font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
     margin-top: 0;
+}
+
+/* Main Section */
+
+.section-no-one{
+    text-align: center;
+    font-family: Inter;
+    bottom: 230px;
+    width: 1320px;
+}
+.off{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 0px;
+}
+
+.section-title{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.categoris{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+.img-one{
+    width: 800px;
+    height: 500px;
 }
