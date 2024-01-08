@@ -17,17 +17,17 @@ body{
 }
 .banner{
     width: 632px;
-    
 }
+
 .banner-title{
     color: cadetblue;
     text-align: center;
     font-family: Merriweather;
     font-weight: 400;
     font-size: 32px;
-    margin-bottom: 0px;
-
+    margin-bottom: 18px;
 }
+
 .banner-info{
     color: darkblue;
     text-align: center;
@@ -35,5 +35,4 @@ body{
     font-size: 72px;
     font-weight: 900;
     margin-top: 0;
-
 }
