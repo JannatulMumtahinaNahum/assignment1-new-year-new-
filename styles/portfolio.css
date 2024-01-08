@@ -42,13 +42,14 @@ body{
     font-family: Inter;
     width: 1320px;
     position: relative;
-    bottom: 140px;
+    bottom: 145px;
 }
 .off{
     color: #F00;
     font-size: 88px;
     font-weight: 700;
     margin-top: 0px;
+    margin-bottom: 35px;
 }
 
 .section-title{
@@ -67,4 +68,49 @@ body{
 .img-one{
     width: 805px;
     height: 500px;
+}
+
+.section-no-two{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    padding-left: 125px;
+}
+.night-party{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    width: 642px;
+    font-weight: 900;
+    letter-spacing: 7px;
+    margin-top: 0;
+    line-height: 80px;
+}
+.midnight-celebratiiop{
+    color: rgba(255, 255, 255, 0.90);
+    width: 697px;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 400;
+}
+#btn1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    background: none;
+    border: none;
+    padding-left: 40px;
+    margin-top: 35px;
+}
+.img-two{
+    width: 319;
+    height: 464;
+    margin-left: 60px;
 }
