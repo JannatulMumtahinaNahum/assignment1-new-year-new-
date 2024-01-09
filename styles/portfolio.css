@@ -256,19 +256,23 @@ body{
 
 .all-gifts{
     display: flex;
+    position: relative;
+    top: 47px;
+    left: 207px;
 }
 .gift-box{
     width: 450px;
     height: 480px;
     position: relative;
-    top: 210px;
-    left: 110px;
+    top: 120px;
+
 }
 .discount{
     width: 230px;
     height: 230px;
     position: relative;
-    left: 250px;
+    left: 800px;
+    bottom: 500px;
 
 }
 
@@ -277,8 +281,8 @@ body{
     height: 430px;
     border-radius: 16px 16px 0px 0px;
     position: relative;
-    left: 203px;
-    top: 7px;
+    left: 234px;
+    top: 5.88px;
 }
 
 .red-bordar{
