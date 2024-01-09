@@ -140,8 +140,8 @@ body{
     color: #070211;
 }
 #btn2{
-    color: #5e14f1;
-    background: rgb(14, 13, 13);
+    color: #252427;
+    background: rgb(250, 8, 8);
     font-family: Inter;
     font-size: 20px;
     padding: 16px 32px;
@@ -256,34 +256,31 @@ body{
 
 .all-gifts{
     display: flex;
-    position: relative;
-    top: 50px;
-    left: 207px;
 }
-.img-five{
+.gift-box{
     width: 450px;
     height: 480px;
     position: relative;
     top: 210px;
     left: 110px;
 }
-.img-six {
+.discount{
     width: 230px;
     height: 230px;
     position: relative;
+    left: 250px;
 
 }
 
-.img-seven{
+.the-girl{
     width: 429px;
     height: 430px;
-    margin-bottom: 0;
     border-radius: 16px 16px 0px 0px;
     position: relative;
     left: 203px;
     top: 7px;
 }
 
-.img-eight{
+.red-bordar{
     margin-top: 0;
 }
